@@ -26,3 +26,9 @@ git clone https://github.com/Sairyvy/my-project.git
 ## Автори
 
 * **Sairyyy** — *Головний розробник*
+* ## Схема роботи проєкту
+
+```mermaid
+flowchart TD
+    A[Клонування репозиторію] --> B[Відкриття index.html]
+    B --> C[Перегляд верстки у браузері]
